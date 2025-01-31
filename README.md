@@ -1,8 +1,8 @@
 <h1 align="center">🚀 Hi, I'm Prema !</h1>
-<h3 align="center">Aspiring Full-Stack Web Developer | JavaScript | React | Node.js | MySQL | HTML | CSS | Python</h3>
+<h3 align="center">Aspiring Full-Stack Web Developer | JavaScript | React | Node.js | MySQL | HTML | CSS | Java </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=37F7F1&center=true&vCenter=true&width=500&lines=Building+full-stack+web+apps+with+React+%26+Node.js;Solving+problems+on+LeetCode+%26+GFG;Passionate+about+technology+%26+coding" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=37F7F1&center=true&vCenter=true&width=500&lines=Building+full-stack+web+apps+with+React+%26+Node.js;Solving+problems+on+Hacker+Rank+%26+GFG;Passionate+about+technology+%26+coding" />
 </p>
 
 ---
@@ -34,7 +34,7 @@
 ✅ **Expense Tracker** – A web app to manage income and expenses.  
 ✅ **Weather App** – Fetches real-time weather data using an API.  
 
-📂 **More projects available on my [GitHub Repositories](https://github.com/aadhiprince)**  
+📂 **More projects available on my [GitHub Repositories](https://github.com/premapleasant)**  
 
 ---
 
