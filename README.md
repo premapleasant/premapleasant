@@ -1,15 +1,15 @@
 <h1 align="center">🚀 Hi, I'm Prema !</h1>
-<h3 align="center">Aspiring Full-Stack Web Developer | JavaScript | React | Node.js | MySQL | HTML | CSS | Java </h3>
+<h3 align="center">Aspiring Full-Stack Web Developer | JavaScript | React | Node.js | MySQL | HTML | CSS | Java</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=37F7F1&center=true&vCenter=true&width=500&lines=Building+full-stack+web+apps;Solving+problems+on+Hacker+Rank+%26+GFG;Passionate+about+technology+%26+coding" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=37F7F1&center=true&vCenter=true&width=500&lines=Building+full-stack+web+apps;Solving+problems+on+Hacker+Rank+%26+GFG;Passionate+about+technology+%26+coding;Exploring+new+technologies+and+frameworks;Always+learning+and+improving+my+skills" />
 </p>
 
 ---
 
 ## 🔹 **About Me**
 👋 Hi, I'm **Prema** (Prema) from Tamil Nadu, India.  
-💻 A **Full-Stack Web Developer** skilled in **React, Node.js, MySQL, and JavaScript**.  
+💻 A **Full-Stack Web Developer** skilled in **React, Node.js, MySQL, JavaScript, HTML , CSS  and Java**.  
 🚀 Passionate about **building projects, problem-solving, and continuous learning**.  
 🔍 Currently **applying for Web Developer roles** and **enhancing my technical skills**.  
 🎯 Goal: To grow into a **Senior Developer** and create impactful web applications.  
@@ -26,6 +26,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 
