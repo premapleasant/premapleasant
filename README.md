@@ -32,8 +32,8 @@
 
 ## 🔹 **📌 Featured Projects**
 ✅ **Attendance Management System** – A full-stack app for tracking student attendance.  
-✅ **Expense Tracker** – A web app to manage income and expenses.  
-✅ **Weather App** – Fetches real-time weather data using an API.  
+✅ **Local Services Finder** – A web app to find nearby services available.  
+✅ **Library System** – A full-stack app to manage library with real-time.  
 
 📂 **More projects available on my [GitHub Repositories](https://github.com/premapleasant)**  
 
