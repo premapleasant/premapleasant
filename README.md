@@ -31,8 +31,10 @@
 ---
 
 ## 🔹 **📌 Featured Projects**
+
 ✅ **Attendance Management System** – A full-stack app for tracking student attendance.
-✅ **Library System** – A full-stack app to manage library with real-time.  
+
+✅ **Library System** – A full-stack app to manage library with real-time. 
 
 📂 **More projects available on my [GitHub Repositories](https://github.com/premapleasant)**  
 
