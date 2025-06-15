@@ -40,7 +40,7 @@
   _Tech Stack: React, Node.js, Express.js, MySQL_  
   A full-stack app for tracking student attendance with admin, staff, and student roles.
 
-- ✅ [**Smart AI ChatBot (Gemini API)**](https://github.com/premapleasant/Smart-AI-ChatBot)  
+- ✅ [**Smart AI ChatBot (Gemini API)**](https://github.com/premapleasant/chatBot)  
   _Tech Stack: React.js, Gemini API_  
   AI-powered chatbot integrated with Google’s Gemini API to handle interactive conversations.
 
