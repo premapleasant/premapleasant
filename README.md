@@ -30,14 +30,27 @@
 
 ---
 
-## 🔹 **📌 Featured Projects**
+## 🔹 📌 Featured Projects
 
-✅ **Attendance Management System** – A full-stack app for tracking student attendance.
+- ✅ [**WorkNest**](https://github.com/premapleasant/WorkNest)  
+  _Tech Stack: MERN (MongoDB, Express.js, React.js, Node.js)_  
+  A task and team management app to assign, track, and manage tasks with user authentication and dashboards.
 
-✅ **Library System** – A full-stack app to manage library with real-time. 
+- ✅ [**Attendance Management System**](https://github.com/premapleasant/attendance)  
+  _Tech Stack: React, Node.js, Express.js, MySQL_  
+  A full-stack app for tracking student attendance with admin, staff, and student roles.
 
-📂 **More projects available on my [GitHub Repositories](https://github.com/premapleasant)**  
+- ✅ [**Smart AI ChatBot (Gemini API)**](https://github.com/premapleasant/Smart-AI-ChatBot)  
+  _Tech Stack: React.js, Gemini API_  
+  AI-powered chatbot integrated with Google’s Gemini API to handle interactive conversations.
 
+- ✅ [**Library Management System**](https://github.com/premapleasant/Library-System)  
+  _Tech Stack: Node.js, Express.js, MySQL, HTML/CSS_  
+  A real-time system to manage books, students, issue and return functionalities.
+
+---
+
+📂 **More projects available on my [GitHub Repositories](https://github.com/premapleasant)**
 ---
 
 ## 🔹 **📫 Connect with Me**
