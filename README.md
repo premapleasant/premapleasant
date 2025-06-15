@@ -31,8 +31,7 @@
 ---
 
 ## 🔹 **📌 Featured Projects**
-✅ **Attendance Management System** – A full-stack app for tracking student attendance.  
-✅ **Local Services Finder** – A web app to find nearby services available.  
+✅ **Attendance Management System** – A full-stack app for tracking student attendance.
 ✅ **Library System** – A full-stack app to manage library with real-time.  
 
 📂 **More projects available on my [GitHub Repositories](https://github.com/premapleasant)**  
