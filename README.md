@@ -39,7 +39,7 @@
   *Role-based student attendance tracker (Admin/Staff/Student).*  
   _Stack: HTML, CSS, JavaScript, Node.js, Express.js, MySQL_
 
-- ✅ [**Smart AI ChatBot (Gemini API)**](https://github.com/premapleasant/chatBot)  
+- ✅ [**Smart AI ChatBot (Gemini API)**](https://github.com/premapleasant/chat-bot)  
   *AI-powered chatbot integrated with Google Gemini API.*  
   _Stack: React.js, Gemini API_
 
