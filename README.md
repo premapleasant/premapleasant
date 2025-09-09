@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hi, I'm Prema !</h1>
-<h3 align="center">Aspiring Full-Stack Web Developer | JavaScript | React | Node.js | MySQL | HTML | CSS | Java</h3>
+<h3 align="center">Full-Stack Web Developer | JavaScript | React | Node.js | MySQL | HTML | CSS | Java</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=2000&pause=1000&color=37F7F1&center=true&vCenter=true&width=500&lines=Building+full-stack+web+apps;Solving+problems+on+Hacker+Rank+%26+GFG;Passionate+about+technology+%26+coding;Exploring+new+technologies+and+frameworks;Always+learning+and+improving+my+skills" />
@@ -33,11 +33,11 @@
 ## 🔹 📌 Featured Projects
 
 - ✅ [**WorkNest**](https://github.com/premapleasant/WorkNest)  
-  _Tech Stack: MERN (MongoDB, Express.js, React.js, Node.js)_  
+  _Tech Stack: Express.js, React.js, Node.js, MySQL_
   A task and team management app to assign, track, and manage tasks with user authentication and dashboards.
 
 - ✅ [**Attendance Management System**](https://github.com/premapleasant/attendance)  
-  _Tech Stack: React, Node.js, Express.js, MySQL_  
+  _Tech Stack: HTML, CSS, JavaScript, Node.js, Express.js, MySQL_
   A full-stack app for tracking student attendance with admin, staff, and student roles.
 
 - ✅ [**Smart AI ChatBot (Gemini API)**](https://github.com/premapleasant/chatBot)  
@@ -45,7 +45,7 @@
   AI-powered chatbot integrated with Google’s Gemini API to handle interactive conversations.
 
 - ✅ [**Library Management System**](https://github.com/premapleasant/Library-System)  
-  _Tech Stack: Node.js, Express.js, MySQL, HTML/CSS_  
+  _Tech Stack: JavaScript, Node.js, Express.js, MySQL, HTML/CSS_  
   A real-time system to manage books, students, issue and return functionalities.
 
 ---
